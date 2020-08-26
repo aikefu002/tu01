@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to tu01 Pages
 
 You can use the [editor on GitHub](https://github.com/aikefu002/tu01/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
